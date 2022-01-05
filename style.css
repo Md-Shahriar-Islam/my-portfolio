@@ -1,0 +1,41 @@
+.portfolio
+{
+    display:flex;
+}
+body
+{
+    background-color:white;
+    margin:0;
+}
+.information
+{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.678),rgba(0, 0, 0, 0.795));
+    width:20%;
+    height:100vh;
+    color:white;
+}
+.cover
+{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.678),rgba(0, 0, 0, 0.795)),url('images/prabal2.jpg');
+    background-position: center;
+    width:80%;
+    height:100vh;
+}
+.cover h1
+{
+    color:white;
+    font-size:40px;
+    text-transform: Uppercase;
+}
+#cover-information
+{
+    margin:20% 0 0 20%;
+}
+#my-information
+{
+    margin-left:20%;
+}
+span
+{
+    color:orange;
+}
