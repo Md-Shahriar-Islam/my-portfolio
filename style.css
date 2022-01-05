@@ -35,7 +35,7 @@ body
 {
     margin-left:20%;
 }
-span
+.name
 {
     color:orange;
 }
@@ -53,3 +53,8 @@ span
 .logos ion-icon {
     font-size: 25px;
   }
+.description li
+{
+    list-style: none;
+    margin-top: 10px;
+}
